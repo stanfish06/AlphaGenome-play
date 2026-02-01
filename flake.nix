@@ -60,6 +60,7 @@
                 statsmodels
                 jupyterlab
                 jupyterlab-vim
+                marimo
                 networkx
                 alphagenome
                 immutabledict
